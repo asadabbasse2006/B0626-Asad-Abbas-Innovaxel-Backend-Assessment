@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+db.sqlite3
+
+# Virtual environment
+venv/
+
+# Django
+*.log
+*.pot
+*.pyc
+
+# IDE
+.vscode/
+.idea/
+
+# Migrations cache
+*/migrations/__pycache__/
